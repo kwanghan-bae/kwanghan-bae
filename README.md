@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm Woring in <img width="20" alt="image" src="https://user-images.githubusercontent.com/12758798/227972677-17acd4e3-2607-44f6-99cc-f31fdb1b0f67.png"> Kakaopay, Software-Developer, Servier-Side
 </p>
 
-Interested in **Kotlin+**, **Java**, **Dard/Flutter**, **Spring**
+Interested in **Kotlin**, **Java**, **Dard/Flutter**, **Spring**
 
 <br>
 
