@@ -20,13 +20,9 @@
 I'm Woring in <img width="20" alt="image" src="https://user-images.githubusercontent.com/12758798/227972677-17acd4e3-2607-44f6-99cc-f31fdb1b0f67.png"> Kakaopay, Software-Developer, Servier-Side
 </p>
 
-Interested in **Kotlin**, **Java**, **Dart/Flutter**, **Spring**
+Interested in **Kotlin**, **Java**, **Spring**, **Dart/Flutter**, **TypeScript/NodeJs**
 
 <br>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/kwanghan-bae?pet-id=1" width="1000" height="120"/>
-</a>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/kwanghan-bae"/>
