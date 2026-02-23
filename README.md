@@ -24,4 +24,8 @@ Interested in **Kotlin**, **Java**, **Dart/Flutter**, **Spring**
 
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/kwanghan-bae?pet-id=1" width="1000" height="120"/>
+</a>
+
 ![Kwanghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanghan-bae&show_icons=true&theme=radical)
